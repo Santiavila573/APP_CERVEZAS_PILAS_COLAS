@@ -19,4 +19,4 @@ Mostrar Cervezas Disponibles:
 En cualquier momento, el usuario puede ver la lista de cervezas disponibles en el sistema. Esta lista se muestra en forma de pila, con la última cerveza añadida en la parte superior.
 Salir del Programa:
 
-El usuario puede elegir salir del programa en cualquier momento, automaticamente finaliza la ejecución.
+El usuario puede elegir salir del programa en cualquier momento, automáticamente finaliza la ejecución.
