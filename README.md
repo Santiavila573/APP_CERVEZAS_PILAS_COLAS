@@ -1,1 +1,3 @@
 # AppCervezas
+
+Las pilas y colas son estructuras de datos fundamentales que ofrecen una gestión eficiente de datos en aplicaciones informáticas, con aplicaciones versátiles en una variedad de contextos. Su importancia radica en la optimización de recursos y la facilidad de implementación de algoritmos complejos. Por otro lado, la arquitectura multicapa divide una aplicación en capas lógicas, mejorando la modularidad, la mantenibilidad y la escalabilidad del sistema al separar responsabilidades y promover el desarrollo colaborativo. En conjunto, el uso de pilas y colas junto con la arquitectura multicapa permite desarrollar aplicaciones más eficientes, robustas y fáciles de mantener.
